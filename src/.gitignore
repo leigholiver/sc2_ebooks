@@ -1,0 +1,4 @@
+*
+!.gitignore
+!lambda_handler.py
+!sc2quotes.txt
